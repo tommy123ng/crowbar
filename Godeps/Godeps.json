@@ -1,9 +1,6 @@
 {
 	"ImportPath": "github.com/q3k/crowbar",
 	"GoVersion": "go1.4.1",
-	"Packages": [
-		"./..."
-	],
 	"Deps": [
 		{
 			"ImportPath": "github.com/pborman/uuid",
