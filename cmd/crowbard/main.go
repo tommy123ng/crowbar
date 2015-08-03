@@ -35,7 +35,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/pborman/uuid"
+	"uuid"
 
 	"github.com/q3k/crowbar"
 )
